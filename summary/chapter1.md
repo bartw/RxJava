@@ -157,3 +157,4 @@ Ultimately RxJava types and operators are just an abstraction over imperative ca
 - https://speakerdeck.com/benjchristensen/applying-reactive-programming-with-rxjava-at-goto-chicago-2015?slide=146
 - https://www.reactivemanifesto.org/
 - https://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming/1030631#1030631
+- https://www.youtube.com/watch?v=8OcCSQS0tug
